@@ -49,7 +49,3 @@ def engine():
     }
 
     return create_phrase(phrase_structures, tr)
-
-
-if __name__ == '__main__':
-        engine()
